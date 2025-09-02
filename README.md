@@ -6,7 +6,6 @@
 #### My stats on github:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nezyz&layout=compact)](https://github.com/Nezyz/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nezyz)](https://github.com/Nezyz/github-readme-stats)
 #### My stats on codewars:
 [![codewars](https://www.codewars.com/users/Nezy/badges/micro)](https://www.codewars.com/users/Nezy) 
 #### My stats on leetcode:
