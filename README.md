@@ -25,6 +25,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nezyz)](https://github.com/Nezyz/github-readme-stats)
 
 [![codewars](https://www.codewars.com/users/Nezy/badges/micro)](https://www.codewars.com/users/Nezy) 
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Nezyz&theme=dark)](https://github.com/Nezyz/leetcode-stats)
 <!--
 **Nezyz/Nezyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
